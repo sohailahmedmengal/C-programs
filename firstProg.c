@@ -2,8 +2,8 @@
 int main (void) {
 float data; float answer;
 int choice;
-printf("GB to MB");
-printf("MB to GB");
+printf("1. GB to MB\n");
+printf("2. MB to GB\n");
 printf("Enter a data: ");
 scanf("%f", &data);
 printf("Enter choice: ");
